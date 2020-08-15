@@ -5,7 +5,7 @@ public class Main {
     }
 }
 ```
-<img src="https://github.com/cihatdev/cihatdev/blob/master/gif2.gif" height="100px">
+<img src="https://github.com/cihatdev/cihatdev/blob/master/gif2.gif" height="600px">
 
 
 
