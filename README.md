@@ -13,6 +13,6 @@ public class Main {
  👉[Twitter](https://twitter.com/chtslk)<br>
  👉[Blog](https://cihatdev.github.io/blog/)<br>
  👉[Email](mailto:cihatsalik123@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br>
- [![Cihat's github stats](https://github-readme-stats.vercel.app/api?username=cihatdev)](https://github.com/anuraghazra/github-readme-stats)
+ [![Cihat's github stats](https://github-readme-stats.vercel.app/api?username=cihatdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
