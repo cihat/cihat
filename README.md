@@ -5,7 +5,7 @@ public class Main {
     }
 }
 ```
-<img align="right" src="https://github.com/cihatdev/cihatdev/blob/master/gif2.gif" height="170px" margin-left="5px"> 
+<img align="right" src="https://github.com/cihatdev/cihatdev/blob/master/gif2.gif" height="170px" margin-right="5px"> 
 <img  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
 
  👉[CodeWars](https://www.codewars.com/users/Cihat%20%20Salik)<br>
