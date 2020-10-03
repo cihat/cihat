@@ -1,4 +1,3 @@
-<img align="right" src="https://github.com/cihatdev/cihatdev/blob/master/gif2.gif" height="170px" margin-right="5px"> 
 <img  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
 
  👉<a target="_blank" href="https://www.codewars.com/users/Cihat%20%20Salik">CodeWars</a><br>
