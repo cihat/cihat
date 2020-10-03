@@ -10,7 +10,7 @@ I'm Cihat, living in Istanbul, Turkey. Currently I'm a computer engineering stud
 </a>
 
 </div>
-<a  href="https://github.com/antonkomarev/github-profile-views-counter">
+<a  href="#">
     <img src="https://komarev.com/ghpvc/?username=cihatdev">
 </a>
 <hr/>
