@@ -8,9 +8,9 @@ I'm Cihat, living in Istanbul, Turkey. Currently I'm a computer engineering stud
 <a href="#">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cihatdev&layout=compact" />
 </a>
- <img  src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
+ <img align="right" src="https://www.codewars.com/users/Cihat%20%20Salik/badges/large">
 </div>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a  href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=cihatdev">
 </a>
 
