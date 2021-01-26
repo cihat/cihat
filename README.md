@@ -13,7 +13,7 @@ I'm Cihat, living in Istanbul, Turkey. Currently I'm a computer engineering stud
 <a  href="#">
     <img src="https://komarev.com/ghpvc/?username=cihatdev">
 </a>
-<a  href ="https://www.codewars.com/users/Cihat%20%20Salik"> <img align="right" src="https://www.codewars.com/users/Cihat%20%20Salik/badges/micro"><a/>
+<a  href ="https://www.codewars.com/users/cihatdev"> <img align="right" src="https://www.codewars.com/users/cihatdev/badges/micro"><a/>
 <hr/>
 <p align="center">  
 <a href="https://codepen.io/cihatsalik02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="orhando" height="30" width="30" /></a>  
