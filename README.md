@@ -5,9 +5,8 @@ I'm Cihat, living in Istanbul, Turkey. Currently I'm a computer engineering stud
 <a href="#" >
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cihatdev&show_icons=true&include_all_commits=true" alt="Cihat's github stats" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cihatdev&layout=compact" />
-</a>
+
+
 </div>
 <a  href="#">
     <img src="https://komarev.com/ghpvc/?username=cihatdev">
