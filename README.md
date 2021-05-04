@@ -6,11 +6,11 @@ I am a curious <b>software developer</b> who lives in <b>Istanbul</b>, works for
   <summary><b>More...</b></summary>
   <div>
 <a href="#" >
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cihat&show_icons=true&include_all_commits=true" alt="Cihat's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cihat&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Cihat's github stats" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cihat&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cihat&count_private=true&layout=compact&theme=dark" />
 </a>
 
 </div>
