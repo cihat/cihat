@@ -4,6 +4,7 @@
 I am a curious <b>software developer</b> who lives in <b>Istanbul</b>, works for <a href="https://saypr.com/" target="_blank">Saypr</a>, a <b>Computer Science</b> student. I love <b>open source development</b> and I am building something on my GitHub profile (here). I love <b>JavaScript</b> and <b>Vue.js</b>.
 <details>
   <summary><b>More...</b></summary>
+  <br/>
   <div>
 <a href="#" >
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cihat&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Cihat's github stats" />
