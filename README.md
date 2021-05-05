@@ -24,7 +24,7 @@ I am a curious <b>software developer</b> who lives in <b>Istanbul</b>, works for
 <hr/>
 <p align="center">  
 <a href="https://codepen.io/cihatsalik02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="orhando" height="30" width="30" /></a>  
-<a href="https://dev.to/cihatsalik02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="orhanozkercin" height="30" width="30" /></a>  
+<a href="https://dev.to/cihat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="orhanozkercin" height="30" width="30" /></a>  
 <a href="https://twitter.com/chtslk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="oozkercin" height="30" width="30" /></a>  
 <a href="https://www.linkedin.com/in/cihatsalik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="orhanozkercin" height="30" width="30" /></a>  
 <a href="https://stackoverflow.com/users/12350369/cihat-salik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9883034" height="30" width="30" /></a>  
