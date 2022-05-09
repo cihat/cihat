@@ -1,7 +1,10 @@
 <h3> Welcome to my Github Profile 👋 </h3>
 <h5>Hello, this is <b>Cihat Salik</b></h5>
 
-I am a curious <b>software developer</b> who lives in <b>Elazığ/Turkey</b>, a <b>Computer Science</b> student. I love <b>open source development</b> and I am building something on my GitHub profile (here). I love <b>JavaScript</b> and <b>Vue.js</b>.
+<p>
+I'm a curious software developer and a Computer Science student. I like open source development, enjoying developing clone projects and new technologies. You can find my projects on Github. JavaScript technologies interest me.
+</p>
+
 <details>
   <summary><b>More...</b></summary>
   <br/>
