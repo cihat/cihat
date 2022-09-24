@@ -3,7 +3,7 @@
 <p>
    I'm a curious software developer and a Computer Science student. I like open source development, enjoying developing clone projects and new technologies. You can find my projects on Github. JavaScript technologies interest me.
 </p>
-<details open>
+<details>
    <summary><b>More...</b></summary>
    <br/>
    <div style='display: flex; align: center; justify-content: space-between;'>
