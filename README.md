@@ -1,7 +1,7 @@
 <h3> Welcome to my Github Profile 👋 </h3>
 <h5>Hello, this is <b>Cihat Salik</b></h5>
 <p>
-   I'm a curious software developer and a Computer Science student. I like open source development, enjoying developing clone projects and new technologies. You can find my projects on Github. JavaScript technologies interest me.
+   I am an inquisitive software engineer and a recent graduate in Computer Science. I have a passion for open-source development and take pleasure in creating projects inspired by existing ones while exploring emerging technologies.
 </p>
 <details>
    <summary><b>More...</b></summary>
@@ -24,6 +24,7 @@
 <hr/>
 
 <p align="center">  
+<a href="https://cihat.dev" target="blank"><img align="center" src="./assets/personel.svg" alt="personel-icon" height="30" width="30" /></a>  
   <a href="https://codepen.io/cihatsalik02" target="blank"><img align="center" src="./assets/codepen.svg" alt="codepen-icon" height="30" width="30" /></a>  
   <a href="https://dev.to/cihat" target="blank"><img align="center" src="./assets/dev.svg" alt="dev-icon" height="30" width="30" /></a>
   <a href="https://twitter.com/chtslk" target="blank"><img align="center" src="./assets/twitter.svg" alt="twitter-icon" height="30" width="30" /></a>  
