@@ -6,7 +6,7 @@
 <details>
    <summary><b>More...</b></summary>
    <br/>
-   <div style='display: flex; align: center; justify-content: space-between;'>
+   <div style="display: flex;">
       <a href="http://cihat.github.io/">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cihat&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Cihat's github stats" />
       </a>
