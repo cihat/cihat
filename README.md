@@ -6,14 +6,14 @@
 
 <p align="center">
   <samp>
-    <a href="https://cihat.dev/about">me</a> .
-    <a href="https://cihait.dev">blog</a> .
-    <a href="https://cihait.dev/projects">projects</a> .
-    <a href="https://cihat.dev/reading">reading</a> .
-    <a href="https://cihat.dev/bookmarks">bookmarks</a> .
-    <a href="https://twitter.com/chtslk">tweets</a> .
-    <a href="https://www.instagram.com/c1h4tt/">instagram</a> .
-    <a href="https://github.com/sponsors/cihat">sponsor</a>
+    <a target="_blank" href="https://cihat.dev/about">me</a> .
+    <a target="_blank" href="https://cihat.dev">blog</a> .
+    <a target="_blank" href="https://cihat.dev/projects">projects</a> .
+    <a target="_blank" href="https://cihat.dev/reading">reading</a> .
+    <a target="_blank" href="https://cihat.dev/bookmarks">bookmarks</a> .
+    <a target="_blank" href="https://twitter.com/chtslk">tweets</a> .
+    <a target="_blank" href="https://www.instagram.com/c1h4tt/">instagram</a> .
+    <a target="_blank" href="https://github.com/sponsors/cihat">sponsor</a>
   </samp>
 </p>
 
