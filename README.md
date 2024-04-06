@@ -3,6 +3,20 @@
 <p>
    I am an inquisitive software engineer and a recent graduate in Computer Science. I have a passion for open-source development and take pleasure in creating projects inspired by existing ones while exploring emerging technologies.
 </p>
+
+<p align="center">
+  <samp>
+    <a href="https://cihat.dev/about">me</a> .
+    <a href="https://cihait.dev">blog</a> .
+    <a href="https://cihait.dev/projects">projects</a> .
+    <a href="https://cihat.dev/reading">reading</a> .
+    <a href="https://cihat.dev/bookmarks">bookmarks</a> .
+    <a href="https://twitter.com/chtslk">tweets</a> .
+    <a href="https://www.instagram.com/c1h4tt/">instagram</a> .
+    <a href="https://github.com/sponsors/cihat">sponsor</a>
+  </samp>
+</p>
+
 <details>
    <summary><b>More...</b></summary>
    <br/>
@@ -17,10 +31,13 @@
    <a href="http://cihat.github.io/">
      <img src="https://komarev.com/ghpvc/?username=cihat">
    </a>
-   <a href ="https://www.codewars.com/users/cihatdev"> <img align="right" src="https://www.codewars.com/users/cihatdev/badges/micro">
+   <a href ="https://www.codewars.com/users/cihatdev">
+      <img align="right" src="https://www.codewars.com/users/cihatdev/badges/micro">
    <a/>
+   <p align="center">
+      <a href="https://www.buymeacoffee.com/cihatsalik" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+   </p>
 </details>
-
 <hr/>
 
 <p align="center">  
