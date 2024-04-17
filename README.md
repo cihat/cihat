@@ -34,8 +34,5 @@
    <a href ="https://www.codewars.com/users/cihatdev">
       <img align="right" src="https://www.codewars.com/users/cihatdev/badges/micro">
    <a/>
-   <p align="center">
-      <a href="https://www.buymeacoffee.com/cihatsalik" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-   </p>
 </details>
 <hr/>
