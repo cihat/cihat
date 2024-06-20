@@ -12,7 +12,7 @@
     <a target="_blank" href="https://cihat.dev/reading">reading</a> .
     <a target="_blank" href="https://cihat.dev/bookmarks">bookmarks</a> .
     <a target="_blank" href="https://twitter.com/chtslk">tweets</a> .
-    <a target="_blank" href="https://www.instagram.com/c1h4tt/">instagram</a> .
+    <a target="_blank" href="https://www.instagram.com/cihat.png/">instagram</a> .
     <a target="_blank" href="https://github.com/sponsors/cihat">sponsor</a>
   </samp>
 </p>
